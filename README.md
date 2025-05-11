@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Heindwick George]
+# 👋 Hello, I'm Heindwick George
 Welcome to my data analytics portfolio.
 
 ## 🔍 Featured Projects
