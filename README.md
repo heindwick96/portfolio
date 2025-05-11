@@ -5,10 +5,12 @@ Welcome to my data analytics portfolio.
 
 ### 📊 [COBT Power Bi Project](https://github.com/heindwick96/cobt_project)
 A simple power BI project to showcase data preprocessing and visualization using python and power BI 
+
 ![status](https://img.shields.io/badge/status-complete-brightgreen)
 
 ---
 
 ### 🎯 [Expenses Tracker](https://github.com/heindwick96/expenses_tracker)
 Expenses tracker using Microsoft Access 
-![status](https://img.shields.io/badge/status-incomplete-orange)
+
+![status](https://img.shields.io/badge/status-to-be-done-orange)
