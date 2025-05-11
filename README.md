@@ -13,4 +13,4 @@ A simple power BI project to showcase data preprocessing and visualization using
 ### 🎯 [Expenses Tracker](https://github.com/heindwick96/expenses_tracker)
 Expenses tracker using Microsoft Access 
 
-![status](https://img.shields.io/badge/status-todo-orange)
+![status](https://img.shields.io/badge/status-incomplete-orange)
